@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: pyrtree
+Version: 0.50
+Summary: 2-Dimensional RTree spatial index
+Home-page: http://code.google.com/p/pyrtree
+Author: Dan Shoutis
+Author-email: dan@shoutis.org
+License: UNKNOWN
+Description: Two-dimensional RTree spatial index.
+        
+        This is a simple pure python implemenation of a 2D RTree. For the
+        moment, it is insert-only, and aimed at creating indexes to speed
+        queries over mostly-static datasets.
+        
+Platform: UNKNOWN
