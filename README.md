@@ -20,7 +20,7 @@ Run buildset to build different types of datasets. Choices are present in argpar
 ### Hybrid Model
 The hybrid Rtree model can be trained in train_hybrid. Tree parameters and approximators can be modified within the script. 
 
-
+### Neural Network
 Direct Mapping using Neural Network can be carried out using the NN/ directory. This requires pytorch. Make sure to normalize the dataset before running. 
 
 ## Rtree Implementation Source
